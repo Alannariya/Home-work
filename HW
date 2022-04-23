@@ -96,5 +96,5 @@ const checkAge = function(age) {
     checkAge ('22');
     checkAge ('3sf2');
 
-    let agePromt = promt('Enter age');
-    checkAge(agePromt)
+    let agePrompt = prompt('Enter age');
+    checkAge(agePrompt)
